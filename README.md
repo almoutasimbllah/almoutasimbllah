@@ -1,7 +1,7 @@
 
 <h1 align="center">مرحباً 👋 أنا المعتصم بالله</h1>
 <p align="center">
-  مبرمج محترف | خبير أمن سيبراني | متخصص تطبيقات احترافية وخدمات العملاء
+  مبرمج  | خبير أمن سيبراني | عمل تطبيقات للعملا وتطبيقات لخدمة العملا 
 </p>
 
 ---
@@ -12,9 +12,32 @@
 
 ---
 
-## المهارات
+  مهاراتي
+<p align="center">
 
-- لغات البرمجة: **Java, C++, HTML, SQL, JavaScript, CSS, Kotlin, Python, Go, Ropy**
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <!-- Kotlin -->
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+</p>
+<img align="center" src="https://avatars.githubusercontent.com/u/almoutasimbllah?v=4" width="120" style="border-radius:50%" />
 - بناء السيرفرات العلائقية الضخمة والمعقدة
 - تطوير تطبيقات احترافية ومنخفضة المستوى
 - الأمن السيبراني وتحليل البرمجيات الخبيثة
@@ -33,8 +56,9 @@
 ## للتواصل
 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
-- [X (Twitter)](https://twitter.com/YOUR-LINK)
-- البريد الإلكتروني: your@email.com
+- [facebook](https://www.facebook.com/share/1GjF5vjknT/)
+- [X (Twitter)](https://x.com/walhwyt36652?t=ZZ1PV5wLT3fc9AblI1oyYg&s=09)
+  almoutasimbllahslah@email.com
 
 ---
 
@@ -53,7 +77,31 @@ I am an excellent software developer, proficient in many programming languages. 
 
 ## Skills
 
-- Programming Languages: **Java, C++, HTML, SQL, JavaScript, CSS, Kotlin, Python, Go, Ropy**
+- Programming Languages: <p align="center">
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <!-- Kotlin -->
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+</p>
+<img align="center" src="https://avatars.githubusercontent.com/u/almoutasimbllah?v=4" width="120" style="border-radius:50%" />
 - Building complex relational servers and databases
 - Developing professional and low-level applications
 - Cybersecurity and malware analysis
@@ -72,9 +120,9 @@ I am an excellent software developer, proficient in many programming languages. 
 ## Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
-- [X (Twitter)](https://twitter.com/YOUR-LINK)
-- Email: your@email.com
-
+- [facebook](https://www.facebook.com/share/1GjF5vjknT/)
+- [X (Twitter)](https://x.com/walhwyt36652?t=ZZ1PV5wLT3fc9AblI1oyYg&s=09)
+  almoutasimbllahslah@email.com
 ---
 
 ![almoutasimbllah's GitHub stats](https://github-readme-stats.vercel.app/api?username=almoutasimbllah&show_icons=true&theme=radical)
