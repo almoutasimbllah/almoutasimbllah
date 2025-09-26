@@ -58,8 +58,6 @@
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
 - [facebook](https://www.facebook.com/share/1GjF5vjknT/)
 - [X (Twitter)](https://x.com/walhwyt36652?t=ZZ1PV5wLT3fc9AblI1oyYg&s=09)
-  almoutasimbllahslah@email.com
-
 ---
 
 <h1 align="center">Hi 👋, I'm Almoutasimbllah</h1>
@@ -122,7 +120,6 @@ I am an excellent software developer, proficient in many programming languages. 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
 - [facebook](https://www.facebook.com/share/1GjF5vjknT/)
 - [X (Twitter)](https://x.com/walhwyt36652?t=ZZ1PV5wLT3fc9AblI1oyYg&s=09)
-  almoutasimbllahslah@email.com
 ---
 
 ![almoutasimbllah's GitHub stats](https://github-readme-stats.vercel.app/api?username=almoutasimbllah&show_icons=true&theme=radical)
